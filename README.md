@@ -16,6 +16,8 @@ Storage is not persistent.
 
 ### Usage
 
+It is important for the user to generate an API key from "https://www.livecoinwatch.com/tools/api" and update the class to use your API key, otherwise the program will break, generate the key, copy it and replace the "Paste_API_here" text on the class init function with your own key.
+
 For users who have little or limited knowledge of cryptocurrencies consider using the following list of tickers for input and using a random number for the amount of coins to test the program:
 
 - TRX
