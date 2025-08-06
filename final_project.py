@@ -40,7 +40,7 @@ class Cryptocurrency:
         self.ticker = ticker
         self.amount = amount
         self.price = price
-        self.api_key = ""
+        self.api_key = "Paste_API_here"
         self.meta_data = None
 
 
